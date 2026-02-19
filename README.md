@@ -47,7 +47,3 @@ The analysis revealed a significant correlation between market sentiment and tra
 Behavioral shifts in trade sizing and directional bias were observed across different sentiment states.
 
 Detailed insights and actionable strategy suggestions are provided within the Jupyter Notebook.
-
----
-Submitted by: Prakash Sharma
-Date: 26/5/2025
